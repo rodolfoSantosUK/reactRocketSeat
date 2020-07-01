@@ -6,3 +6,7 @@ Usando comando npx  baixa as dependências de forma temporária e
         evita que eu instale referência por contexto global.
 
 npx create-react-app fundamentos-react .
+
+
+
+instalando yarn add axios 
