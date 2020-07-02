@@ -8,5 +8,8 @@ Usando comando npx  baixa as dependências de forma temporária e
 npx create-react-app fundamentos-react .
 
 
+npm install -g yarn 
 
-instalando yarn add axios 
+instalando yarn add axios para consumir um endpoint
+
+instalando yarn add react-router-dom para rotas
